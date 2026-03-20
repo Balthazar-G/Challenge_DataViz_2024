@@ -49,8 +49,7 @@ Focus sur les accidents mortels : profil des victimes, facteurs de surmortalité
 
 ```
 .
-├── index.html          # Dashboard interactif (rapport final)
-├── rapport_2024.Rmd    # Source R Markdown
+├── challenge_dataviz2024_equipeBBM.html          # Html généré depuis Markdown (rapport final)
 └── README.md
 ```
 
